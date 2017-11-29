@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@android:drawable/dialog_holo_light_frame"/>
+    </item>
+</layer-list>
+
+<!--<layer-list xmlns:android="http://schemas.android.com/apk/res/android">-->
+    <!--&lt;!&ndash; This is the line &ndash;&gt;-->
+    <!--<item>-->
+        <!--<shape>-->
+            <!--<solid android:color="@color/clrBlack" />-->
+        <!--</shape>-->
+    <!--</item>-->
+    <!--&lt;!&ndash; This is the main color &ndash;&gt;-->
+    <!--<item android:bottom="1.5sp" android:right="1sp">-->
+        <!--<shape>-->
+            <!--<solid android:color="@color/clrWhite" />-->
+        <!--</shape>-->
+    <!--</item>-->
+<!--</layer-list>-->

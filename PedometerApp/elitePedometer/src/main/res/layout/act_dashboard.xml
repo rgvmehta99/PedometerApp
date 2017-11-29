@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:custom="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/clrWhite">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/llWalkingStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="20sp"
+            android:layout_marginRight="10dp">
+
+            <ImageView
+                android:id="@+id/ivPlayPause"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_gravity="right"
+                android:background="@drawable/white_btn_ripple"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/ic_play"/>
+
+            <TextView
+                android:id="@+id/tvTagWalkingSratus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:paddingTop="3dp"
+                android:paddingBottom="3dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:textSize="14sp"
+                android:textColor="@color/clrStatusBar2"
+                android:gravity="center"/>
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_below="@+id/llWalkingStatus"
+            android:layout_marginTop="50sp">
+
+            <TextView
+                android:id="@+id/tvTagTodaysSteps"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Today's Steps"
+                android:textSize="17sp"
+                android:textColor="@color/clrStatusBar"
+                android:gravity="center"/>
+
+            <RelativeLayout
+                android:layout_width="200sp"
+                android:layout_height="200sp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10sp"
+                android:background="@drawable/green_round_border">
+
+                <com.github.lzyzsd.circleprogress.DonutProgress
+                    android:id="@+id/donutProgressView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerHorizontal="true"
+                    custom:donut_circle_starting_degree="270"
+                    custom:donut_finished_color="@color/clrStatusBar2"
+                    custom:donut_finished_stroke_width="15dp"
+                    custom:donut_max="10000"
+                    custom:donut_progress="100"
+                    custom:donut_text=""
+                    custom:donut_unfinished_color="@color/clrMainBg"/>
+
+                <TextView
+                    android:id="@+id/tvSteps"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:layout_centerInParent="true"
+                    android:textColor="@color/clrStatusBar2"
+                    android:gravity="center"
+                    android:textSize="55sp"/>
+            </RelativeLayout>
+
+
+            <TextView
+                android:id="@+id/tvTargetSteps"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Goal : 0"
+                android:layout_marginTop="10sp"
+                android:textSize="15sp"
+                android:textColor="@color/clrStatusBar"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/tvCaloriesBurn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Calories Burn : 0"
+                android:layout_marginTop="10sp"
+                android:textSize="15sp"
+                android:textColor="@color/clrStatusBar"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/tvDistance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Distance : 0.000 km"
+                android:layout_marginTop="10sp"
+                android:textSize="15sp"
+                android:textColor="@color/clrStatusBar"
+                android:gravity="center"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

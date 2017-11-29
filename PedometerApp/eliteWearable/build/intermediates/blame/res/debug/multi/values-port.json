@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "G:\\Dhaval_Mehta\\BitBucket\\PedometerApp\\PedometerApp\\eliteWearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\BitBucket\\elitepedometer-android\\ElitePedometer\\eliteWearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

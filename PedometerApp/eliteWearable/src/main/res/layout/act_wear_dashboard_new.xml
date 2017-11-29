@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/clrWhite">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.github.lzyzsd.circleprogress.ArcProgress
+            android:id="@+id/arcProgressView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            app:arc_finished_color="@color/clrStatusBar2"
+            app:arc_unfinished_color="@color/clrMainBg"
+            app:arc_suffix_text=""
+            app:arc_progress="0"
+            app:arc_text_color="@color/clrStatusBar"
+            app:arc_text_size="0sp"
+            app:arc_suffix_text_size="0sp"
+            android:layout_margin="5sp"
+            app:arc_bottom_text_size="10sp"
+            app:arc_max="0"
+            app:arc_angle="270"
+            app:arc_bottom_text="Today's Steps"
+            app:arc_stroke_width="6sp"/>
+
+        <TextView
+            android:id="@+id/tvTodaySteps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:layout_marginBottom="45sp"
+            android:layout_alignParentBottom="true"
+            android:gravity="center"
+            android:textColor="@color/clrStatusBar2"
+            android:textSize="20sp"/>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:paddingLeft="50sp"
+            android:paddingRight="50sp">
+
+            <ImageView
+                android:id="@+id/ivAppIcon"
+                android:layout_width="30sp"
+                android:layout_height="30sp"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/ic_launcher"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5sp"
+                android:layout_below="@+id/ivAppIcon"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tvCalories"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:layout_marginTop="2sp"
+                    android:gravity="center"
+                    android:textColor="@color/clrStatusBar2"
+                    android:textSize="15sp"/>
+
+                <TextView
+                    android:id="@+id/tvTagCalories"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Calories"
+                    android:gravity="center"
+                    android:textSize="9sp"
+                    android:textColor="@color/clrStatusBar"/>
+
+
+                <TextView
+                    android:id="@+id/tvTargetSteps"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="0"
+                    android:layout_marginTop="7sp"
+                    android:gravity="center"
+                    android:textColor="@color/clrStatusBar2"
+                    android:textSize="15sp"/>
+
+
+                <TextView
+                    android:id="@+id/tvTagTargetSteps"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Target Steps"
+                    android:gravity="center"
+                    android:textSize="9sp"
+                    android:textColor="@color/clrStatusBar"/>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+
+
+    </RelativeLayout>
+
+</LinearLayout>

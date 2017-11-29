@@ -1,0 +1,52 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26.0.0"
+    defaultConfig {
+        applicationId "com.elite.pedometer"
+        minSdkVersion 16
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+
+        // Enabling multidex support.
+        multiDexEnabled true
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+allprojects {
+    repositories {
+        // custom progress bar for Dashboard steps process
+        maven { url "https://jitpack.io" }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+
+    wearApp project(':eliteWearable')
+
+    // multi dex error resolve
+    compile 'com.android.support:multidex:1.0.0'
+
+    // Recycler View
+    implementation "com.android.support:recyclerview-v7:26.1.0"
+
+    // Card View
+    implementation 'com.android.support:cardview-v7:26.1.0'
+
+    // Custom progress bar for Dashboard steps process
+    implementation 'com.github.lzyzsd:circleprogress:1.2.1'
+
+    compile 'com.google.android.gms:play-services:+'
+
+}

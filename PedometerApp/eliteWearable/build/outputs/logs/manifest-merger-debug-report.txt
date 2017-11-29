@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:2:1-106:12
+MERGED from [com.google.android.support:wearable:2.1.0] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\wearable-2.1.0.aar\118d3f21c7281fbc34837b138df3a777\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-wearable:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.6.2.aar\c0eaccc2a915bf7344f4c406259fd77b\AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.lzyzsd:circleprogress:1.2.1] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\circleprogress-1.2.1.aar\4ec54a55b757f82d60f71d5b22362e23\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:percent:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\01533c99e5579743b6f3150b393c49f8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\7b5e5ff69fe5c12fcffd95ef2d578119\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\2a4fc13a32b6cd20d1fb7f74c8e666c4\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\8990b6a43cb237337f8d892586e3c2bb\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\b9ba913765ce7d84e74e8ea021c72fb1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\126c19c90ac963c633863a551165ec8b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\7356c80626445fe202181adb83386a10\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\12069d38febcc91c1fe567071625383a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\df0dcc5f41450e39a3afd887242bc712\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\ceb387ce196d5ee539d0ab539bf55957\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\4392a253e4b91d67d5923947dff9fd69\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-wearable-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.6.2.aar\3413cfbf4d112dd09edef4e8c1322001\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\ef4af09f98429bc45c84d7843cae423e\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\128eb30c8af92eb3f25806f5ab306b3c\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\8346165584490029c010cc60e27a5bfe\AndroidManifest.xml:2:1-6:12
+INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:2:1-106:12
+	package
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:2:11-40
+		INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml
+		INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml
+		INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml
+		INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:3:11-69
+uses-feature#android.hardware.type.watch
+ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:5:5-63
+	android:name
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:5:19-61
+application
+ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:7:5-105:19
+MERGED from [com.google.android.support:wearable:2.1.0] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\wearable-2.1.0.aar\118d3f21c7281fbc34837b138df3a777\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.1.0] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\wearable-2.1.0.aar\118d3f21c7281fbc34837b138df3a777\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-wearable:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.6.2.aar\c0eaccc2a915bf7344f4c406259fd77b\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.6.2.aar\c0eaccc2a915bf7344f4c406259fd77b\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:percent:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\01533c99e5579743b6f3150b393c49f8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\01533c99e5579743b6f3150b393c49f8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\7b5e5ff69fe5c12fcffd95ef2d578119\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\7b5e5ff69fe5c12fcffd95ef2d578119\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\2a4fc13a32b6cd20d1fb7f74c8e666c4\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\2a4fc13a32b6cd20d1fb7f74c8e666c4\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\8990b6a43cb237337f8d892586e3c2bb\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\8990b6a43cb237337f8d892586e3c2bb\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\b9ba913765ce7d84e74e8ea021c72fb1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\b9ba913765ce7d84e74e8ea021c72fb1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\126c19c90ac963c633863a551165ec8b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\126c19c90ac963c633863a551165ec8b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\7356c80626445fe202181adb83386a10\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\7356c80626445fe202181adb83386a10\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\12069d38febcc91c1fe567071625383a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\12069d38febcc91c1fe567071625383a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\df0dcc5f41450e39a3afd887242bc712\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\df0dcc5f41450e39a3afd887242bc712\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\ceb387ce196d5ee539d0ab539bf55957\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\ceb387ce196d5ee539d0ab539bf55957\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\4392a253e4b91d67d5923947dff9fd69\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\4392a253e4b91d67d5923947dff9fd69\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-wearable-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.6.2.aar\3413cfbf4d112dd09edef4e8c1322001\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.6.2.aar\3413cfbf4d112dd09edef4e8c1322001\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\ef4af09f98429bc45c84d7843cae423e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\ef4af09f98429bc45c84d7843cae423e\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\128eb30c8af92eb3f25806f5ab306b3c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\128eb30c8af92eb3f25806f5ab306b3c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\8346165584490029c010cc60e27a5bfe\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\8346165584490029c010cc60e27a5bfe\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:12:9-59
+	android:name
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:8:9-51
+activity#com.elite.pedometer.ActWearDashboard
+ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:14:9-21:20
+	android:label
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:15:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:19:27-74
+uses-library#com.google.android.wearable
+ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:24:9-93
+MERGED from [com.google.android.support:wearable:2.1.0] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\wearable-2.1.0.aar\118d3f21c7281fbc34837b138df3a777\AndroidManifest.xml:10:9-12:40
+MERGED from [com.google.android.support:wearable:2.1.0] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\wearable-2.1.0.aar\118d3f21c7281fbc34837b138df3a777\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:24:66-90
+	android:name
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:24:23-65
+meta-data#com.google.android.wearable.standalone
+ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:27:9-29:36
+	android:value
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:29:13-34
+	android:name
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:28:13-66
+meta-data#com.google.android.gms.version
+ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:31:9-33:68
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\8990b6a43cb237337f8d892586e3c2bb\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\8990b6a43cb237337f8d892586e3c2bb\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:33:13-66
+	android:name
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:32:13-58
+service#com.elite.pedometer.MessageListener
+ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:35:18-68
+intent-filter#com.google.android.gms.wearable.BIND_LISTENER
+ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.wearable.BIND_LISTENER
+ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:37:17-88
+	android:name
+		ADDED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml:37:25-85
+uses-sdk
+INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml
+INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml
+MERGED from [com.google.android.support:wearable:2.1.0] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\wearable-2.1.0.aar\118d3f21c7281fbc34837b138df3a777\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.1.0] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\wearable-2.1.0.aar\118d3f21c7281fbc34837b138df3a777\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wearable:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.6.2.aar\c0eaccc2a915bf7344f4c406259fd77b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.6.2.aar\c0eaccc2a915bf7344f4c406259fd77b\AndroidManifest.xml:17:5-43
+MERGED from [com.github.lzyzsd:circleprogress:1.2.1] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\circleprogress-1.2.1.aar\4ec54a55b757f82d60f71d5b22362e23\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.lzyzsd:circleprogress:1.2.1] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\circleprogress-1.2.1.aar\4ec54a55b757f82d60f71d5b22362e23\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:percent:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\01533c99e5579743b6f3150b393c49f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\01533c99e5579743b6f3150b393c49f8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\7b5e5ff69fe5c12fcffd95ef2d578119\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\7b5e5ff69fe5c12fcffd95ef2d578119\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\2a4fc13a32b6cd20d1fb7f74c8e666c4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\2a4fc13a32b6cd20d1fb7f74c8e666c4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\8990b6a43cb237337f8d892586e3c2bb\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\8990b6a43cb237337f8d892586e3c2bb\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\b9ba913765ce7d84e74e8ea021c72fb1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\b9ba913765ce7d84e74e8ea021c72fb1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\126c19c90ac963c633863a551165ec8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\126c19c90ac963c633863a551165ec8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\7356c80626445fe202181adb83386a10\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\7356c80626445fe202181adb83386a10\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\12069d38febcc91c1fe567071625383a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\12069d38febcc91c1fe567071625383a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\df0dcc5f41450e39a3afd887242bc712\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\df0dcc5f41450e39a3afd887242bc712\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\ceb387ce196d5ee539d0ab539bf55957\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\ceb387ce196d5ee539d0ab539bf55957\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\4392a253e4b91d67d5923947dff9fd69\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\4392a253e4b91d67d5923947dff9fd69\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-wearable-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.6.2.aar\3413cfbf4d112dd09edef4e8c1322001\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-wearable-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-11.6.2.aar\3413cfbf4d112dd09edef4e8c1322001\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\ef4af09f98429bc45c84d7843cae423e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\ef4af09f98429bc45c84d7843cae423e\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\128eb30c8af92eb3f25806f5ab306b3c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\128eb30c8af92eb3f25806f5ab306b3c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\8346165584490029c010cc60e27a5bfe\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\8346165584490029c010cc60e27a5bfe\AndroidManifest.xml:4:5-43
+INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml
+INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\b9ba913765ce7d84e74e8ea021c72fb1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml
+		INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml
+		INJECTED from G:\Dhaval_Mehta\BitBucket\PedometerApp\PedometerApp\eliteWearable\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:percent:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\01533c99e5579743b6f3150b393c49f8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\b9ba913765ce7d84e74e8ea021c72fb1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.2.aar\b9ba913765ce7d84e74e8ea021c72fb1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\126c19c90ac963c633863a551165ec8b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.2.aar\126c19c90ac963c633863a551165ec8b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\7356c80626445fe202181adb83386a10\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.2.aar\7356c80626445fe202181adb83386a10\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\12069d38febcc91c1fe567071625383a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.2.aar\12069d38febcc91c1fe567071625383a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\df0dcc5f41450e39a3afd887242bc712\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.2.aar\df0dcc5f41450e39a3afd887242bc712\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\ceb387ce196d5ee539d0ab539bf55957\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.2.aar\ceb387ce196d5ee539d0ab539bf55957\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\4392a253e4b91d67d5923947dff9fd69\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.2.aar\4392a253e4b91d67d5923947dff9fd69\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:percent:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\01533c99e5579743b6f3150b393c49f8\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:percent:26.0.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\01533c99e5579743b6f3150b393c49f8\AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\7b5e5ff69fe5c12fcffd95ef2d578119\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\7b5e5ff69fe5c12fcffd95ef2d578119\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\7b5e5ff69fe5c12fcffd95ef2d578119\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\rajan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\7b5e5ff69fe5c12fcffd95ef2d578119\AndroidManifest.xml:19:19-85

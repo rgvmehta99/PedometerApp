@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/clrWhite">
+
+    <RelativeLayout
+        android:id="@+id/rlMain"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TableLayout
+            android:id="@+id/tlHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:visibility="gone">
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <TextView
+                    android:id="@+id/tvDate"
+                    android:layout_weight="1"
+                    android:text="DATE"
+                    android:textSize="16sp"
+                    android:gravity="center"
+                    android:textColor="@color/clrStatusBar2"/>
+
+                <TextView
+                    android:id="@+id/tvStepsCountAndLastTime"
+                    android:layout_weight="1"
+                    android:text="STEPS"
+                    android:textSize="16sp"
+                    android:gravity="center"
+                    android:textColor="@color/clrStatusBar2"/>
+
+                <!--<TextView-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:text="TIME"-->
+                    <!--android:textSize="18sp"-->
+                    <!--android:gravity="center"-->
+                    <!--android:textColor="@color/clrStatusBar2"/>-->
+            </TableRow>
+
+        </TableLayout>
+
+        <View
+            android:id="@+id/devider"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/clrStatusBar2"
+            android:layout_below="@+id/tlHeader"
+            android:visibility="gone"/>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="vertical"
+            android:layout_below="@+id/devider"
+            android:layout_marginTop="5dp"/>
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/rlNoData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/ivNoData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/ic_history"/>
+
+        <TextView
+            android:id="@+id/tvNoData"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="No records found."
+            android:layout_marginTop="5sp"
+            android:layout_below="@+id/ivNoData"
+            android:textSize="17sp"
+            android:gravity="center"
+            android:textColor="@color/clrStatusBar2"/>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

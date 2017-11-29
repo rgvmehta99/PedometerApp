@@ -1,0 +1,988 @@
+[
+    {
+        "outputFile": "D:\\BitBucket\\elitepedometer-android\\ElitePedometer\\eliteWearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 103,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 63,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 63,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 66,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 66,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 63,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 63,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 354,
+                    "endColumn": 115,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 115,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 125,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 125,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.2.aar\\df0dcc5f41450e39a3afd887242bc712\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 922
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.2.aar\\df0dcc5f41450e39a3afd887242bc712\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 927,
+                    "endColumn": 125,
+                    "endOffset": 1048
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 125,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1053,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.2.aar\\df0dcc5f41450e39a3afd887242bc712\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endColumn": 127,
+                    "endOffset": 1344
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 127,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1349,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1511
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.2.aar\\df0dcc5f41450e39a3afd887242bc712\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1516,
+                    "endLine": 25,
+                    "endColumn": 8,
+                    "endOffset": 1707
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 211,
+                        "endLine": 7,
+                        "endColumn": 8,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1712,
+                    "endLine": 28,
+                    "endColumn": 8,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 403,
+                        "endLine": 10,
+                        "endColumn": 8,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endLine": 32,
+                    "endColumn": 8,
+                    "endOffset": 1964
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 500,
+                        "endLine": 14,
+                        "endColumn": 8,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1969,
+                    "endLine": 36,
+                    "endColumn": 8,
+                    "endOffset": 2122
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 652,
+                        "endLine": 18,
+                        "endColumn": 8,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2127,
+                    "endLine": 43,
+                    "endColumn": 8,
+                    "endOffset": 2582
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 950,
+                        "endLine": 27,
+                        "endColumn": 8,
+                        "endOffset": 1405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2587,
+                    "endLine": 55,
+                    "endColumn": 8,
+                    "endOffset": 3230
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 0,
+                        "startOffset": 1550,
+                        "endLine": 41,
+                        "endColumn": 8,
+                        "endOffset": 2193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3235,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 3402
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 850,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 1017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3407,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 3740
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1022,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3745,
+                    "endLine": 75,
+                    "endColumn": 8,
+                    "endOffset": 4387
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 0,
+                        "startOffset": 2194,
+                        "endLine": 53,
+                        "endColumn": 8,
+                        "endOffset": 2836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4392,
+                    "endLine": 78,
+                    "endColumn": 8,
+                    "endOffset": 4560
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 0,
+                        "startOffset": 2837,
+                        "endLine": 56,
+                        "endColumn": 8,
+                        "endOffset": 3005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4565,
+                    "endLine": 82,
+                    "endColumn": 8,
+                    "endOffset": 4744
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 0,
+                        "startOffset": 3006,
+                        "endLine": 60,
+                        "endColumn": 8,
+                        "endOffset": 3185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4749,
+                    "endLine": 86,
+                    "endColumn": 8,
+                    "endOffset": 4926
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 0,
+                        "startOffset": 3186,
+                        "endLine": 64,
+                        "endColumn": 8,
+                        "endOffset": 3363
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "G:\\Dhaval_Mehta\\BitBucket\\PedometerApp\\PedometerApp\\eliteWearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 103,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 63,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 63,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 66,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 66,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 63,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 63,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 354,
+                    "endColumn": 115,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 115,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endColumn": 125,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 470,
+                        "endColumn": 125,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.2.aar\\df0dcc5f41450e39a3afd887242bc712\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 922
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.2.aar\\df0dcc5f41450e39a3afd887242bc712\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 927,
+                    "endColumn": 125,
+                    "endOffset": 1048
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 125,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1053,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.2.aar\\df0dcc5f41450e39a3afd887242bc712\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endColumn": 127,
+                    "endOffset": 1344
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 127,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1349,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1511
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.2.aar\\df0dcc5f41450e39a3afd887242bc712\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1516,
+                    "endLine": 25,
+                    "endColumn": 8,
+                    "endOffset": 1707
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 211,
+                        "endLine": 7,
+                        "endColumn": 8,
+                        "endOffset": 402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1712,
+                    "endLine": 28,
+                    "endColumn": 8,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 403,
+                        "endLine": 10,
+                        "endColumn": 8,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endLine": 32,
+                    "endColumn": 8,
+                    "endOffset": 1964
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 500,
+                        "endLine": 14,
+                        "endColumn": 8,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1969,
+                    "endLine": 36,
+                    "endColumn": 8,
+                    "endOffset": 2122
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 652,
+                        "endLine": 18,
+                        "endColumn": 8,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2127,
+                    "endLine": 43,
+                    "endColumn": 8,
+                    "endOffset": 2582
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 950,
+                        "endLine": 27,
+                        "endColumn": 8,
+                        "endOffset": 1405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2587,
+                    "endLine": 55,
+                    "endColumn": 8,
+                    "endOffset": 3230
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 0,
+                        "startOffset": 1550,
+                        "endLine": 41,
+                        "endColumn": 8,
+                        "endOffset": 2193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3235,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 3402
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 850,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 1017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3407,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 3740
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\4392a253e4b91d67d5923947dff9fd69\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1022,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 1355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3745,
+                    "endLine": 75,
+                    "endColumn": 8,
+                    "endOffset": 4387
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 0,
+                        "startOffset": 2194,
+                        "endLine": 53,
+                        "endColumn": 8,
+                        "endOffset": 2836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 4392,
+                    "endLine": 78,
+                    "endColumn": 8,
+                    "endOffset": 4560
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 0,
+                        "startOffset": 2837,
+                        "endLine": 56,
+                        "endColumn": 8,
+                        "endOffset": 3005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 4565,
+                    "endLine": 82,
+                    "endColumn": 8,
+                    "endOffset": 4744
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 0,
+                        "startOffset": 3006,
+                        "endLine": 60,
+                        "endColumn": 8,
+                        "endOffset": 3185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 4749,
+                    "endLine": 86,
+                    "endColumn": 8,
+                    "endOffset": 4926
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-v21\\values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 0,
+                        "startOffset": 3186,
+                        "endLine": 64,
+                        "endColumn": 8,
+                        "endOffset": 3363
+                    }
+                }
+            }
+        ]
+    }
+]

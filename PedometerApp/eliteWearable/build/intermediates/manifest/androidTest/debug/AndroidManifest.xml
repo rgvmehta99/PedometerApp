@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.elite.pedometer.test">
+
+    <uses-sdk android:minSdkVersion="22" android:targetSdkVersion="23" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="com.elite.pedometer"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for com.elite.pedometer"/>
+</manifest>

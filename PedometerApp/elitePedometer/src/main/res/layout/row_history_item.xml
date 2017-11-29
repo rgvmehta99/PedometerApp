@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <TableLayout
+        android:id="@+id/tlHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp">
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <TextView
+                android:id="@+id/tvDate"
+                android:layout_weight="1"
+                android:text=""
+                android:textSize="15sp"
+                android:gravity="left"
+                android:paddingLeft="15dp"
+                android:textColor="@color/clrStatusBar2"/>
+
+            <TextView
+                android:id="@+id/tvStepsCountAndLastTime"
+                android:layout_weight="1"
+                android:text=""
+                android:textSize="15sp"
+                android:gravity="left"
+                android:paddingLeft="15dp"
+                android:textColor="@color/clrStatusBar2"/>
+
+            <!--<TextView-->
+            <!--android:layout_weight="1"-->
+            <!--android:text="TIME"-->
+            <!--android:textSize="18sp"-->
+            <!--android:gravity="center"-->
+            <!--android:textColor="@color/clrStatusBar2"/>-->
+        </TableRow>
+
+    </TableLayout>
+
+</LinearLayout>

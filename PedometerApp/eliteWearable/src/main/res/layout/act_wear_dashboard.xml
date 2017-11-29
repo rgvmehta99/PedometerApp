@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <ImageView
+        android:layout_width="30sp"
+        android:layout_height="30sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="8sp"
+        android:src="@drawable/ic_launcher"/>
+
+    <TextView
+        android:id="@+id/tvTagTodaySteps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Todays Steps"
+        android:layout_marginTop="8sp"
+        android:gravity="center"
+        android:textSize="8sp"
+        android:textColor="@color/clrStatusBar"/>
+
+    <TextView
+        android:id="@+id/tvTodaySteps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:layout_marginTop="2sp"
+        android:gravity="center"
+        android:textColor="@color/clrStatusBar2"
+        android:textSize="15sp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5sp"
+        android:layout_marginTop="5sp"
+        android:background="@color/clrStatusBar2"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5sp">
+
+        <!--<View-->
+            <!--android:id="@+id/dummyView"-->
+            <!--android:layout_width="0.5sp"-->
+            <!--android:layout_height="35sp"-->
+            <!--android:background="@color/clrStatusBar"-->
+            <!--android:layout_centerInParent="true"/>-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <!--android:layout_toLeftOf="@+id/dummyView"-->
+
+            <TextView
+                android:id="@+id/tvTagCalories"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Calories"
+                android:gravity="center"
+                android:textSize="8sp"
+                android:textColor="@color/clrStatusBar"/>
+
+            <TextView
+                android:id="@+id/tvCalories"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:layout_marginTop="2sp"
+                android:gravity="center"
+                android:textColor="@color/clrStatusBar2"
+                android:textSize="15sp"/>
+
+        </LinearLayout>
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:orientation="vertical"-->
+            <!--android:layout_toRightOf="@+id/dummyView">-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tvTagDistance"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="Distance (km)"-->
+                <!--android:gravity="center"-->
+                <!--android:textSize="8sp"-->
+                <!--android:textColor="@color/clrStatusBar"/>-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tvDistance"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="0"-->
+                <!--android:layout_marginTop="2sp"-->
+                <!--android:gravity="center"-->
+                <!--android:textColor="@color/clrStatusBar2"-->
+                <!--android:textSize="15sp"/>-->
+        <!--</LinearLayout>-->
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5sp"
+        android:layout_marginTop="5sp"
+        android:background="@color/clrStatusBar2"/>
+
+    <TextView
+        android:id="@+id/tvTagTargetSteps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Target Steps"
+        android:layout_marginTop="2sp"
+        android:gravity="center"
+        android:textSize="8sp"
+        android:textColor="@color/clrStatusBar"/>
+
+    <TextView
+        android:id="@+id/tvTargetSteps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:layout_marginTop="2sp"
+        android:gravity="center"
+        android:textColor="@color/clrStatusBar2"
+        android:textSize="15sp"/>
+
+</LinearLayout>

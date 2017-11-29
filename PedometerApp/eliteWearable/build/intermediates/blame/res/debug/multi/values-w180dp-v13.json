@@ -1,0 +1,164 @@
+[
+    {
+        "outputFile": "G:\\Dhaval_Mehta\\BitBucket\\PedometerApp\\PedometerApp\\eliteWearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w180dp-v13\\values-w180dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-w180dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 222,
+                        "endColumn": 46,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 51,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-w180dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 269,
+                        "endColumn": 47,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 53,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-w180dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 317,
+                        "endColumn": 49,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 51,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-w180dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 367,
+                        "endColumn": 47,
+                        "endOffset": 414
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\BitBucket\\elitepedometer-android\\ElitePedometer\\eliteWearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w180dp-v13\\values-w180dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-w180dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 222,
+                        "endColumn": 46,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 51,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-w180dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 269,
+                        "endColumn": 47,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 53,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-w180dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 317,
+                        "endColumn": 49,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 51,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "C:\\Users\\rajan\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.1.0.aar\\118d3f21c7281fbc34837b138df3a777\\res\\values-w180dp-v13\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 367,
+                        "endColumn": 47,
+                        "endOffset": 414
+                    }
+                }
+            }
+        ]
+    }
+]

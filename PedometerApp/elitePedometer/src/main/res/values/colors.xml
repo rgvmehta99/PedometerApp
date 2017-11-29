@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#117964</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="clrWhite">#FFFFFF</color>
+    <color name="clrBlack">#000000</color>
+    <color name="clrTrBlack">#85000000</color>
+    <color name="clrGrayLight">#C4C4C4</color>
+
+    <color name="clrPrimary">#1ABC9C</color>
+    <color name="clrTitleBar">#d1f1eb</color>
+    <color name="clrMainBg">#d1f1eb</color>
+    <color name="clrStatusBar2">#117964</color>
+    <color name="clrStatusBar">#148f77</color>
+</resources>

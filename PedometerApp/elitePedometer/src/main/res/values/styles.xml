@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/clrPrimary</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_dark</item>
+        <item name="colorAccent">@color/accent_material_dark</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <style name="MyRadioButton" parent="Base.Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="colorControlHighlight">@color/clrStatusBar</item>
+        <item name="colorControlNormal">@color/clrStatusBar</item>
+        <item name="colorControlActivated">@color/clrStatusBar2</item>
+    </style>
+
+
+
+
+</resources>

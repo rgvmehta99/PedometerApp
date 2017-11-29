@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bsm_header_70m">70dp</dimen>
+    <dimen name="bsm_header_56m">56dp</dimen>
+</resources>
